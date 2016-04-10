@@ -1,0 +1,1 @@
+the mytsearch.cpp is from David R. Martin, Boston College,please first mex this cpp file and use it in MATLAB.
